@@ -6,4 +6,33 @@ You've learned a lot about web development so far. I want you to take a moment t
 
 ---
 
-Your response goes here!
++---------------------------------------+
+|   What new skills have you learned?   |
++---------------------------------------+
+
+For the most part, I haven't learned anything "new" since I have worked with HTML on a basic level for awhile now and
+have already encountered all of the elements used in the lessons up to this point. That said, it's helpful to see some
+best practices when it comes to code formatting and organization since all of my HTML knowledge has been self-taught.
+
++-------------------------+
+|   What has been easy?   |
++-------------------------+
+
+So far, everything has fairly easy. Typically the only issues I've run into have been making typos which cause
+unintended effects but that's just how coding goes sometimes!
+
++------------------------------+
+|   What has been difficult?   |
++------------------------------+
+
+As stated in my previous answer, the greatest obstacles so far have been simple typos. Sometimes these are subtle enough
+that they can be difficult to find!
+
++------------------------------------------------------------------------------------------------------------+
+|   How have you used the problem solving strategies from the first project to overcome challenges so far?   |
++------------------------------------------------------------------------------------------------------------+
+
+I think one of the most useful problem solving strategies is to just keep a cool head and be able to read thru your code
+as if it's the first time you've seen it. Easier said than done of course, but it certainly helps find minor errors that
+are easy to miss if you're just scanning thru the code hoping the problem jumps out at you (sometimes they like to
+hide).
